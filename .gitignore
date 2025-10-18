@@ -1,0 +1,6 @@
+.vs/
+audio/
+x64/
+*.log
+*.obj
+*.pdb
